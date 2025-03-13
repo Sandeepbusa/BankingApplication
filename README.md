@@ -2,7 +2,7 @@ Bank Account Management System
 
 Project Description
 
-The Account Management System is a RESTful API built using Java and Spring Boot to manage bank account operations.
+The Bank Account Management System is a RESTful API built using Java and Spring Boot to manage bank account operations.
 This application allows users to create, view, update, and delete accounts, as well as perform deposit and withdrawal transactions. 
 It serves as a foundation for backend services in financial systems.
 
